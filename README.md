@@ -39,10 +39,6 @@ npx react-native run-ios
 npx react-native run-android
 ```
 
-## 📱 Demonstração
-
-*[Aqui você pode adicionar o vídeo do app rodando]*
-
 ## 🤝 Contribuindo
 
 Sinta-se à vontade para sugerir melhorias ou reportar bugs! Este é um projeto de aprendizado, então toda contribuição é bem-vinda.
