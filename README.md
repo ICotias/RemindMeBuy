@@ -38,6 +38,12 @@ npx react-native run-ios
 # Rodar no Android
 npx react-native run-android
 ```
+## 📱 Aplicação rodando 
+
+https://github.com/user-attachments/assets/89b59106-883e-4477-b69c-1e7aa60847e5
+
+
+
 
 ## 🤝 Contribuindo
 
